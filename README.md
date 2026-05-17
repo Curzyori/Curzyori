@@ -6,15 +6,15 @@
 <br/>
 
 <!-- Subtitle Badges -->
-<img src="https://img.shields.io/badge/🎓_Informatics_Student-1a1b27?style=flat&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/💻_Full--Stack_Developer-1a1b27?style=flat&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/⚙️_Automation_Enthusiast-1a1b27?style=flat&labelColor=1a1b27" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&text=🎓%20Informatics%20Student&height=35&fontSize=14&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&text=💻%20Full-Stack%20Developer&height=35&fontSize=14&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&text=⚙️%20Automation%20Enthusiast&height=35&fontSize=14&fontColor=ffffff&animation=twinkling" />
 
 <br/><br/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Building+Digital+Solutions+🚀;Automating+Everything+I+Can+⚙️;Learning+Never+Stops+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Building+Digital+Solutions+%F0%9F%9A%80;Automating+Everything+I+Can+%E2%9A%99%EF%B8%8F;Learning+Never+Stops+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 </div>
@@ -128,11 +128,11 @@ Focus      : Full-Stack Development, Automation & AI Integration
 Download media from multiple platforms with a clean, modern interface.
 
 <a href="https://4mate.curzy.my.id">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-4mate.curzy.my.id-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-%2358A6FF?style=for-the-badge" />
 </a>
 <br/>
 <a href="https://github.com/Curzyori/4-Mate-7">
-  <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOURCE_CODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -146,11 +146,11 @@ Download media from multiple platforms with a clean, modern interface.
 Clean and fast IP address lookup tool with geolocation data.
 
 <a href="https://checkip.curzy.my.id">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-checkip.curzy.my.id-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-%2358A6FF?style=for-the-badge" />
 </a>
 <br/>
 <a href="https://github.com/Curzyori/Check-IP-9">
-  <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOURCE_CODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -187,15 +187,6 @@ Full-stack cloud commerce platform with WhatsApp bot automation, crypto payment 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Curzyori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curzyori&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Curzyori&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="GitHub Streak" />
-</p>
-
 <!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Curzyori&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1a1b27" width="95%" alt="Contribution Graph" />
@@ -207,7 +198,7 @@ Full-stack cloud commerce platform with WhatsApp bot automation, crypto payment 
 
 <p align="center">
   <a href="https://curzy.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-curzy.my.id-%2358A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-%2358A6FF?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/curzy/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
