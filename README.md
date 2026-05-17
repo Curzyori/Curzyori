@@ -6,9 +6,7 @@
 <br/>
 
 <!-- Subtitle Badges -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&text=🎓%20Informatics%20Student&height=35&fontSize=14&fontColor=ffffff&animation=twinkling" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&text=💻%20Full-Stack%20Developer&height=35&fontSize=14&fontColor=ffffff&animation=twinkling" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&text=⚙️%20Automation%20Enthusiast&height=35&fontSize=14&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=🎓%20Informatics%20Student%20%20%7C%20%20💻%20Full-Stack%20Developer%20%20%7C%20%20⚙️%20Automation%20Enthusiast&height=30&fontSize=14&fontColor=c9d1d9&animation=twinkling" />
 
 <br/><br/>
 
@@ -33,6 +31,12 @@ Focus      : Full-Stack Development, Automation & AI Integration
 ```
 
 > *"I believe in building things that solve real problems — then automating everything else."*
+
+<br/>
+
+## 🎯 Goals & Roadmap
+
+- 🚀 **50 Projects Challenge** — Building 50 real-world projects before **September 2026**.
 
 <br/>
 
