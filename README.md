@@ -38,6 +38,15 @@ Focus      : Full-Stack Development, Automation & AI Integration
 
 - 🚀 **50 Projects Challenge** — Building 50 real-world projects before **September 2026**.
 
+  <p align="left">
+    <a href="https://github.com/stars/Curzyori/lists/%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs">
+      <img src="https://img.shields.io/badge/Progress-9%20%2F%2050%20%2818%25%29-58A6FF?style=for-the-badge&logo=target" alt="Challenge Progress" />
+    </a>
+    <img src="https://img.shields.io/badge/Last%20Updated-18%20May%202026-gray?style=for-the-badge" alt="Last Updated" />
+  </p>
+
+  > 🔗 **Live Tracking:** You can view the complete, active list of all my projects directly on my [GitHub Project List (ᴘʀᴏᴊᴇᴄᴛs)](https://github.com/stars/Curzyori/lists/%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs).
+
 <br/>
 
 ## 🎓 Education
