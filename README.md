@@ -30,7 +30,7 @@ Major      : Sistem Informasi (Information Systems)
 Focus      : Full-Stack Development, Automation & AI Integration
 ```
 
-> *"I believe in building things that solve real problems — then automating everything else."*
+> *"Hasil Adalah Segalanya"*
 
 <br/>
 
@@ -56,7 +56,7 @@ Focus      : Full-Stack Development, Automation & AI Integration
 | 🏫 | **SDN 26 Sungai Kakap** | Elementary School |
 | 🏫 | **SMPN 5 Sungai Kakap** | Junior High School |
 | 🏫 | **SMAN 4 Sungai Kakap** | Senior High School |
-| 🎓 | **Universitas Bina Sarana Informatika** — Pontianak | University *(Current)* |
+| 🎓 | **Universitas Bina Sarana Informatika** (Pontianak) | University *(Current)* |
 
 <br/>
 
@@ -80,10 +80,8 @@ Focus      : Full-Stack Development, Automation & AI Integration
 <p>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 </details>
 
@@ -95,33 +93,18 @@ Focus      : Full-Stack Development, Automation & AI Integration
   <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>🛠️ DevOps & Tools</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🧰 Tools & Others</b></summary>
-<br/>
-<p>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google_AI-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-%233E67B1.svg?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 </details>
 
@@ -184,7 +167,7 @@ Healthcare inventory management with real-time analytics and error monitoring.
 <td width="50%">
 
 ### ☁️ Curzy Cloud `Private`
-**WhatsApp-Integrated Cloud Platform** — *2024 – Now*
+**WhatsApp-Integrated Cloud Platform** (2024 - Now)
 
 `Express` `Baileys` `Supabase` `JWT`
 
