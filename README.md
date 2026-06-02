@@ -42,7 +42,7 @@ Focus      : Full-Stack Development, Automation & AI Integration
     <a href="https://github.com/stars/Curzyori/lists/%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs">
       <img src="https://img.shields.io/badge/Progress-12%20%2F%2050%20%2824%25%29-58A6FF?style=for-the-badge&logo=target" alt="Challenge Progress" />
     </a>
-    <img src="https://img.shields.io/badge/Last%20Updated-2%20June%202026-gray?style=for-the-badge" alt="Last Updated" />
+    <img src="https://img.shields.io/badge/Last%20Updated-3%20June%202026-gray?style=for-the-badge" alt="Last Updated" />
   </p>
 
   > 🔗 **Live Tracking:** You can view the complete, active list of all my projects directly on my [GitHub Project List (ᴘʀᴏᴊᴇᴄᴛs)](https://github.com/stars/Curzyori/lists/%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs) or browse my curated [Favorite Projects (ғᴀᴠᴏʀɪᴛᴇ-ᴘʀᴏᴊᴇᴄᴛs)](https://github.com/stars/Curzyori/lists/%D2%93%E1%B4%80%E1%B4%A0%E1%B4%8F%CA%80%C9%AA%E1%B4%9B%E1%B4%87-%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs).
@@ -118,66 +118,74 @@ Focus      : Full-Stack Development, Automation & AI Integration
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📥 4 Mate
-**Multi-Platform Media Downloader**
+### 📥 #07 | 4 Mate
+**Web App**
 
-`Next.js` `Axios` `Cheerio`
+`Next.js` `TypeScript` `Vercel`
 
-Download media from multiple platforms with a clean, modern interface.
+Multi-platform media downloader bebas iklan dengan sirkuit forced-download memanfaatkan keunggulan Vercel Edge Runtime.
 
 <a href="https://4mate.curzy.my.id">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-%2358A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
 </a>
 <br/>
 <a href="https://github.com/Curzyori/4-Mate-7">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Check IP
-**IP Lookup Utility**
+### 🔊 #10 | Float Volume
+**Android App**
 
-`Next.js` `Tailwind CSS`
+`Linux` `Git`
 
-Clean and fast IP address lookup tool with geolocation data.
+Aplikasi kontrol volume melayang bebas iklan untuk Android dengan pendekatan Material Design 3 dan Prestige-Safe Stealth Aesthetic.
 
-<a href="https://checkip.curzy.my.id">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-%2358A6FF?style=for-the-badge" />
+<a href="https://github.com/Curzyori/Float-Volume-10/tree/main/version">
+  <img src="https://img.shields.io/badge/UNDUH_APK-%2358A6FF?style=for-the-badge" />
 </a>
 <br/>
-<a href="https://github.com/Curzyori/Check-IP-9">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Curzyori/Float-Volume-10">
+  <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💊 MedStock `Private`
-**Medical Inventory System**
+### 💬 #11 | C Lync
+**SaaS Utama**
 
-`Next.js` `Supabase` `Recharts` `Sentry`
+`React` `TypeScript` `Supabase`
 
-Healthcare inventory management with real-time analytics and error monitoring.
+Aplikasi web manajemen dan otomatisasi pesan atau grup WhatsApp. Dilengkapi fitur asisten cerdas berbasis Google AI Gemini untuk merangkum obrolan panjang (chat overload) secara otomatis dan asinkron.
 
-<img src="https://img.shields.io/badge/🔒_Private_Repository-gray?style=for-the-badge" />
+<a href="https://c-lync-266408539680.asia-southeast1.run.app/">
+  <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Curzy Cloud `Private`
-**WhatsApp-Integrated Cloud Platform** (2024 - Now)
+### 💼 #12 | Portfolio
+**Portfolio Hub**
 
-`Express` `Baileys` `Supabase` `JWT`
+`Next.js` `TypeScript` `Tailwind CSS`
 
-Full-stack cloud commerce platform with WhatsApp bot automation, crypto payment gateway, real-time order management, and REST API with admin dashboard.
+Template premium mobile-first link hub dan portfolio developer statis dengan integrasi filter hierarki bertingkat.
 
-<img src="https://img.shields.io/badge/🔒_Private_Repository-gray?style=for-the-badge" />
+<a href="https://curzy.my.id/">
+  <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
+</a>
+<br/>
+<a href="https://github.com/Curzyori/Portofolio-12">
+  <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
