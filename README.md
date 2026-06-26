@@ -40,9 +40,9 @@ Focus      : Full-Stack Development, Automation & AI Integration
 
   <p align="left">
     <a href="https://github.com/stars/Curzyori/lists/%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs">
-      <img src="https://img.shields.io/badge/Progress-14%20%2F%2050%20%2828%25%29-58A6FF?style=for-the-badge&logo=target" alt="Challenge Progress" />
+      <img src="https://img.shields.io/badge/Progress-16%20%2F%2050%20%2832%25%29-58A6FF?style=for-the-badge&logo=target" alt="Challenge Progress" />
     </a>
-    <img src="https://img.shields.io/badge/Last%20Updated-17%20June%202026-gray?style=for-the-badge" alt="Last Updated" />
+    <img src="https://img.shields.io/badge/Last%20Updated-27%20June%202026-gray?style=for-the-badge" alt="Last Updated" />
   </p>
 
   > 🔗 **Live Tracking:** You can view the complete, active list of all my projects directly on my [GitHub Project List (ᴘʀᴏᴊᴇᴄᴛs)](https://github.com/stars/Curzyori/lists/%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs) or browse my curated [Favorite Projects (ғᴀᴠᴏʀɪᴛᴇ-ᴘʀᴏᴊᴇᴄᴛs)](https://github.com/stars/Curzyori/lists/%D2%93%E1%B4%80%E1%B4%A0%E1%B4%8F%CA%80%C9%AA%E1%B4%9B%E1%B4%87-%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs).
@@ -127,11 +127,11 @@ Focus      : Full-Stack Development, Automation & AI Integration
 
 Multi-platform media downloader bebas iklan dengan sirkuit forced-download memanfaatkan keunggulan Vercel Edge Runtime.
 
-<a href="https://4mate.curzy.my.id">
+<a href="https://4-mate.curzy.dev">
   <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
 </a>
 <br/>
-<a href="https://github.com/Curzyori/4-Mate-7">
+<a href="https://github.com/Curzyori/4-mate">
   <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -141,15 +141,15 @@ Multi-platform media downloader bebas iklan dengan sirkuit forced-download meman
 ### 🔊 #10 | Float Volume
 **Android App**
 
-`Linux` `Git`
+`Kotlin` `Android`
 
 Aplikasi kontrol volume melayang bebas iklan untuk Android dengan pendekatan Material Design 3 dan Prestige-Safe Stealth Aesthetic.
 
-<a href="https://github.com/Curzyori/Float-Volume-10/tree/main/version">
-  <img src="https://img.shields.io/badge/UNDUH_APK-%2358A6FF?style=for-the-badge" />
+<a href="https://float-volume.curzy.dev">
+  <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
 </a>
 <br/>
-<a href="https://github.com/Curzyori/Float-Volume-10">
+<a href="https://github.com/Curzyori/float-volume">
   <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -168,6 +168,10 @@ Aplikasi web manajemen dan otomatisasi pesan atau grup WhatsApp. Dilengkapi fitu
 <a href="https://c-lync-266408539680.asia-southeast1.run.app/">
   <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
 </a>
+<br/>
+<a href="https://github.com/Curzyori/c-lync">
+  <img src="https://img.shields.io/badge/SHADOW_CODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -183,7 +187,7 @@ Template premium mobile-first link hub dan portfolio developer statis dengan int
   <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
 </a>
 <br/>
-<a href="https://github.com/Curzyori/Portofolio-12">
+<a href="https://github.com/Curzyori/portofolio-template">
   <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
