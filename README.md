@@ -200,11 +200,11 @@ Template premium mobile-first link hub dan portfolio developer statis dengan int
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fhmi-kzkf&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Curzyori&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fhmi-kzkf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Curzyori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
 </div>
 
 <!-- Contribution Graph -->
