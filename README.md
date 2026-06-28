@@ -204,7 +204,7 @@ Template premium mobile-first link hub dan portfolio developer statis dengan int
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Curzyori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Curzyori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
 </div>
 
 <!-- Contribution Graph -->
