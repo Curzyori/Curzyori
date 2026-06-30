@@ -40,7 +40,7 @@ Focus      : Full-Stack Development, Automation & AI Integration
 
   <p align="left">
     <a href="https://github.com/stars/Curzyori/lists/%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs">
-      <img src="https://img.shields.io/badge/Progress-17%20%2F%2050%20%2834%25%29-58A6FF?style=for-the-badge&logo=target" alt="Challenge Progress" />
+      <img src="https://img.shields.io/badge/Progress-18%20%2F%2050%20%2836%25%29-58A6FF?style=for-the-badge&logo=target" alt="Challenge Progress" />
     </a>
     <img src="https://img.shields.io/badge/Last%20Updated-1%20July%202026-gray?style=for-the-badge" alt="Last Updated" />
   </p>
@@ -188,6 +188,24 @@ Template premium mobile-first link hub dan portfolio developer statis dengan int
 </a>
 <br/>
 <a href="https://github.com/Curzyori/portofolio-template">
+  <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 #18 | SpecMD
+**Android App**
+
+`Kotlin` `Compose` `MD3`
+
+Extract device specifications and export to clean Markdown format. Perfect for bug reports, tech reviews, and marketplace listings.
+
+<a href="https://spec-md.curzy.dev">
+  <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
+</a>
+<br/>
+<a href="https://github.com/Curzyori/spec-md">
   <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
