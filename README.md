@@ -203,12 +203,9 @@ Extract device specifications and export to clean Markdown format. Perfect for b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Curzyori&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=curzyori&show_icons=true&theme=nord&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curzyori&theme=nord&hide_border=true"/>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Curzyori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
-</div>
 
 <!-- Contribution Graph -->
 <p align="center">
