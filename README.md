@@ -8,14 +8,17 @@
 <!-- Subtitle Badges -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&text=🎓%20Informatics%20Student%20%20%7C%20%20💻%20Full-Stack%20Developer%20%20%7C%20%20⚙️%20Automation%20Enthusiast&height=30&fontSize=14&fontColor=c9d1d9&animation=twinkling" />
 
-<br/><br/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Building+Digital+Solutions+%F0%9F%9A%80;Automating+Everything+I+Can+%E2%9A%99%EF%B8%8F;Learning+Never+Stops+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 </div>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Curzyori&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -138,18 +141,18 @@ Multi-platform media downloader bebas iklan dengan sirkuit forced-download meman
 </td>
 <td width="50%" valign="top">
 
-### 🔊 #10 | Float Volume
+### 🔐 #15 | PassQR
 **Android App**
 
-`Kotlin` `Android`
+`Kotlin` `Compose` `ZXing`
 
-Aplikasi kontrol volume melayang bebas iklan untuk Android dengan pendekatan Material Design 3 dan Prestige-Safe Stealth Aesthetic.
+Generate QR codes from text/URLs and scan any QR code. Ad-free, open-source, and privacy-first.
 
-<a href="https://float-volume.curzy.dev">
+<a href="https://pass-qr.curzy.dev">
   <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
 </a>
 <br/>
-<a href="https://github.com/Curzyori/float-volume">
+<a href="https://github.com/Curzyori/pass-qr">
   <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -158,36 +161,18 @@ Aplikasi kontrol volume melayang bebas iklan untuk Android dengan pendekatan Mat
 <tr>
 <td width="50%" valign="top">
 
-### 💬 #11 | C Lync
-**SaaS Utama**
+### 🎵 #17 | Morsify
+**Android App**
 
-`React` `TypeScript` `Supabase`
+`Kotlin` `Compose` `SoundPool`
 
-Aplikasi web manajemen dan otomatisasi pesan atau grup WhatsApp. Dilengkapi fitur asisten cerdas berbasis Google AI Gemini untuk merangkum obrolan panjang (chat overload) secara otomatis dan asinkron.
+Convert text to Morse code audio. Ad-free, offline-ready, and perfect for learning or emergency signaling.
 
-<a href="https://c-lync-266408539680.asia-southeast1.run.app/">
+<a href="https://morsify.curzy.dev">
   <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
 </a>
 <br/>
-<a href="https://github.com/Curzyori/c-lync">
-  <img src="https://img.shields.io/badge/SHADOW_CODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 #12 | Portfolio
-**Portfolio Hub**
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-Template premium mobile-first link hub dan portfolio developer statis dengan integrasi filter hierarki bertingkat.
-
-<a href="https://portofolio-12.curzy.dev/">
-  <img src="https://img.shields.io/badge/KUNJUNGI_SITUS-%2358A6FF?style=for-the-badge" />
-</a>
-<br/>
-<a href="https://github.com/Curzyori/portofolio-template">
+<a href="https://github.com/Curzyori/morsify">
   <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -215,19 +200,11 @@ Extract device specifications and export to clean Markdown format. Perfect for b
 
 <br/>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Curzyori&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Curzyori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
-</div>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Curzyori&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1a1b27" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziksz1&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziksz1&theme=nord&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <br/>
