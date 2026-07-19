@@ -232,6 +232,9 @@ Extract device specifications and export to clean Markdown format. Perfect for b
   <a href="https://youtube.com/@Curzys">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  <a href="mailto:admin@curzy.dev">
+    <img src="https://img.shields.io/badge/EMAIL-admin%40curzy.dev-%23181717?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
