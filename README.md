@@ -188,7 +188,7 @@ One-command local file sharing over LAN. Zero config, zero cloud — your files 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=curzyori&show_icons=true&theme=nord&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Curzyori&theme=nord&hide_border=true"/>
 </p>
 
 <!-- Contribution Graph -->
