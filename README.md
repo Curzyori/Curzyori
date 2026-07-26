@@ -21,9 +21,6 @@
   <img src="https://img.shields.io/github/followers/Curzyori?label=Followers&style=flat-square&color=58A6FF" alt="GitHub Followers"/>
 </p>
 
-<!-- Glow Divider -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 ---
 
 ## 👤 About Me
@@ -192,7 +189,6 @@ One-command local file sharing over LAN. Zero config, zero cloud — your files 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=curzyori&show_icons=true&theme=nord&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curzyori&theme=nord&hide_border=true"/>
 </p>
 
 <!-- Contribution Graph -->
@@ -202,8 +198,7 @@ One-command local file sharing over LAN. Zero config, zero cloud — your files 
 
 <!-- Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Curzyori/Curzyori/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</p>
+  <img src="https://raw.githubusercontent.com/Curzyori/Curzyori/output/snake.svg" />
 
 <br/>
 
