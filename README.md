@@ -56,9 +56,9 @@ Focus      : Full-Stack Development, Automation & AI Integration
 
 <p align="center">
   <a href="https://github.com/stars/Curzyori/lists/%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs">
-    <img src="https://img.shields.io/badge/Progress-21%20%2F%2050%20%2842%25%29-58A6FF?style=for-the-badge&logo=target" alt="Challenge Progress" />
+    <img src="https://img.shields.io/badge/Progress-22%20%2F%2050%20%2844%25%29-58A6FF?style=for-the-badge&logo=target" alt="Challenge Progress" />
   </a>
-  <img src="https://img.shields.io/badge/Last%20Updated-25%20July%202026-gray?style=for-the-badge" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Last%20Updated-01%20August%202026-gray?style=for-the-badge" alt="Last Updated" />
 </p>
 
 <p align="center">
@@ -154,6 +154,20 @@ Focus      : Full-Stack Development, Automation & AI Integration
 <tr>
 <td width="50%" valign="top">
 
+### 🖱️ #22 | anime-cursor
+**Tauri Desktop** · ⭐ 3 · 🍴 0
+
+`TypeScript` `Rust` `Tauri` `React`
+
+Cross-platform animated cursor manager — import .ani packs via drag-drop ZIP, apply with one click on Windows & Linux, auto-backup before every change.
+
+<a href="https://github.com/Curzyori/anime-cursor">
+  <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🖼️ #20 | rm-bg
 **CLI Tool** · ⭐ 67 · 🍴 20
 
@@ -166,6 +180,8 @@ Background removal tool — strip image backgrounds instantly via CLI. Ad-free, 
 </a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🕐 #21 | hour-share
