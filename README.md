@@ -50,7 +50,7 @@ Focus      : Full-Stack Development, Automation & AI Integration
 
 ## 🎯 Goals & Roadmap
 
-*A self-driven roadmap to design, build, and deploy 50 real-world applications before September 2026. This self-imposed pressure forces continuous coding, quick pivots, and rapid acquisition of new technical skills.*
+*A self-driven roadmap to design, build, and deploy 50 real-world applications — no deadline, the challenge runs until it's done. This self-imposed pressure forces continuous coding, quick pivots, and rapid acquisition of new technical skills.*
 
 <br/>
 
@@ -58,7 +58,7 @@ Focus      : Full-Stack Development, Automation & AI Integration
   <a href="https://github.com/stars/Curzyori/lists/%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs">
     <img src="https://img.shields.io/badge/Progress-22%20%2F%2050%20%2844%25%29-58A6FF?style=for-the-badge&logo=target" alt="Challenge Progress" />
   </a>
-  <img src="https://img.shields.io/badge/Last%20Updated-01%20August%202026-gray?style=for-the-badge" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Last%20Updated-29%20October%202026-gray?style=for-the-badge" alt="Last Updated" />
 </p>
 
 <p align="center">
@@ -92,6 +92,7 @@ Focus      : Full-Stack Development, Automation & AI Integration
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -106,6 +107,7 @@ Focus      : Full-Stack Development, Automation & AI Integration
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
 </details>
 
@@ -125,7 +127,10 @@ Focus      : Full-Stack Development, Automation & AI Integration
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 </details>
 
@@ -135,7 +140,8 @@ Focus      : Full-Stack Development, Automation & AI Integration
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Caddy-0E2A32?style=for-the-badge&logo=caddy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
   <img src="https://img.shields.io/badge/VPS-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -154,26 +160,29 @@ Focus      : Full-Stack Development, Automation & AI Integration
 <tr>
 <td width="50%" valign="top">
 
-### 🖱️ #22 | anime-cursor
-**Tauri Desktop** · ⭐ 3 · 🍴 0
+### 🎓 Mira
+**MuaraAI · Campus API** · ⭐ 7 · 🍴 2
 
-`TypeScript` `Rust` `Tauri` `React`
+`Python` `FastAPI` `SQLite`
 
-Cross-platform animated cursor manager — import .ani packs via drag-drop ZIP, apply with one click on Windows & Linux, auto-backup before every change.
+Unofficial REST API & dashboard for 6 UBSI campus services — SIAKAD, E-Learning, E-Journal, E-Library, Repository, News. Live in production.
 
-<a href="https://github.com/Curzyori/anime-cursor">
+<a href="https://github.com/MuaraAI/Mira">
   <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://mira.muaraai.com">
+  <img src="https://img.shields.io/badge/COBA_LIVE-58A6FF?style=for-the-badge" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ #20 | rm-bg
-**CLI Tool** · ⭐ 67 · 🍴 20
+### 🖼️ rm-bg
+**Browser Tool** · ⭐ 90 · 🍴 22
 
-`Node.js` `Sharp` `CLI`
+`JavaScript` `Sharp`
 
-Background removal tool — strip image backgrounds instantly via CLI. Ad-free, offline-ready, no API keys needed.
+Remove photo/video background & strip Gemini / NotebookLM watermarks in your browser. Free, private, 100% client-side.
 
 <a href="https://github.com/Curzyori/rm-bg">
   <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -184,20 +193,73 @@ Background removal tool — strip image backgrounds instantly via CLI. Ad-free, 
 <tr>
 <td width="50%" valign="top">
 
-### 🕐 #21 | hour-share
-**Node.js CLI** · ⭐ 8 · 🍴 2
+### 📦 ex-apk
+**Android Utility** · ⭐ 11 · 🍴 0
 
-`Node.js` `Python` `npx`
+`Kotlin` `Android` `Material 3`
 
-One-command local file sharing over LAN. Zero config, zero cloud — your files never leave your network.
+APK extractor & backupper for Android. No root required, fully offline — zero network permissions, no ads, no tracking.
+
+<a href="https://github.com/Curzyori/ex-apk">
+  <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🖱️ anime-cursor
+**Tauri Desktop** · ⭐ 9 · 🍴 0
+
+`TypeScript` `Rust` `Tauri`
+
+Cross-platform animated cursor manager — browse, import, and apply .ani cursor packs on Windows & Linux.
+
+<a href="https://github.com/Curzyori/anime-cursor">
+  <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕐 hour-share
+**Local File Sharing** · ⭐ 9 · 🍴 2
+
+`JavaScript` `QR Code`
+
+Share files & text across devices via QR code — no internet, no login, nothing leaves your network.
 
 <a href="https://github.com/Curzyori/hour-share">
   <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
+<td width="50%" valign="top">
+
+</td>
 </tr>
 </table>
+
+<br/>
+
+## 🌊 Muara AI
+
+*Founder of [Muara AI](https://github.com/MuaraAI) — a student-run community building real products for UBSI campus life, led by 3 core developers.*
+
+<p align="center">
+  <a href="https://github.com/MuaraAI/Mira">
+    <img src="https://img.shields.io/badge/Mira-Campus_API-58A6FF?style=for-the-badge&logo=target" />
+  </a>
+  <a href="https://muaraai.com">
+    <img src="https://img.shields.io/badge/Portal-muaraai.com-3FCF8E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/MuaraAI/harness-dc">
+    <img src="https://img.shields.io/badge/harness.dc-Discord_RPC-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+More from the org: [web-ubsi](https://github.com/MuaraAI/web-ubsi) · [ai-web](https://github.com/MuaraAI/ai-web) · [ai-api](https://github.com/MuaraAI/ai-api) · [laku](https://github.com/MuaraAI/laku) · [Skins](https://github.com/MuaraAI/Skins)
 
 <br/>
 
