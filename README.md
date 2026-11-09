@@ -58,7 +58,7 @@ Focus      : Full-Stack Development, Automation & AI Integration
   <a href="https://github.com/stars/Curzyori/lists/%E1%B4%98%CA%80%E1%B4%8F%E1%B4%8A%E1%B4%87%E1%B4%84%E1%B4%9Bs">
     <img src="https://img.shields.io/badge/Progress-22%20%2F%2050%20%2844%25%29-58A6FF?style=for-the-badge&logo=target" alt="Challenge Progress" />
   </a>
-  <img src="https://img.shields.io/badge/Last%20Updated-29%20October%202026-gray?style=for-the-badge" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Last%20Updated-09%20November%202026-gray?style=for-the-badge" alt="Last Updated" />
 </p>
 
 <p align="center">
@@ -161,7 +161,7 @@ Focus      : Full-Stack Development, Automation & AI Integration
 <td width="50%" valign="top">
 
 ### 🎓 Mira
-**MuaraAI · Campus API** · ⭐ 7 · 🍴 2
+**MuaraAI · Campus API** · ⭐ 8 · 🍴 2
 
 `Python` `FastAPI` `SQLite`
 
@@ -237,6 +237,17 @@ Share files & text across devices via QR code — no internet, no login, nothing
 </td>
 <td width="50%" valign="top">
 
+### ⚡ FluxCode
+**MuaraAI · Native Editor** · ⭐ 2 · 🍴 0
+
+`Rust` `GPUI` `ACP`
+
+Lightweight native code editor for Windows and Linux. Built-in AI agent panel, integrated terminal, git status, and multi-format file viewers.
+
+<a href="https://github.com/MuaraAI/FluxCode">
+  <img src="https://img.shields.io/badge/BUKA_KODE-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
 </tr>
 </table>
@@ -259,7 +270,7 @@ Share files & text across devices via QR code — no internet, no login, nothing
   </a>
 </p>
 
-More from the org: [web-ubsi](https://github.com/MuaraAI/web-ubsi) · [ai-web](https://github.com/MuaraAI/ai-web) · [ai-api](https://github.com/MuaraAI/ai-api) · [laku](https://github.com/MuaraAI/laku) · [Skins](https://github.com/MuaraAI/Skins)
+More from the org: [FluxCode](https://github.com/MuaraAI/FluxCode) · [web-ubsi](https://github.com/MuaraAI/web-ubsi) · [ai-web](https://github.com/MuaraAI/ai-web) · [ai-api](https://github.com/MuaraAI/ai-api) · [laku](https://github.com/MuaraAI/laku) · [Skins](https://github.com/MuaraAI/Skins)
 
 <br/>
 
