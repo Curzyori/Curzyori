@@ -20,7 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=Curzyori&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Curzyori?label=Followers&style=flat-square&color=58A6FF" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Public_Repos-33-58A6FF?style=flat-square" alt="Public Repos"/>
-  <img src="https://img.shields.io/badge/Private_Repos-64-gray?style=flat-square" alt="Private Repos"/>
 </p>
 
 ---
