@@ -19,6 +19,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Curzyori&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Curzyori?label=Followers&style=flat-square&color=58A6FF" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/Public_Repos-33-58A6FF?style=flat-square" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/Private_Repos-64-gray?style=flat-square" alt="Private Repos"/>
 </p>
 
 ---
@@ -246,6 +248,37 @@ Unofficial REST API & dashboard for 6 UBSI campus services — SIAKAD, E-Learnin
 </p>
 
 More from the org: [FluxCode](https://github.com/MuaraAI/FluxCode) · [web-ubsi](https://github.com/MuaraAI/web-ubsi) · [ai-web](https://github.com/MuaraAI/ai-web) · [ai-api](https://github.com/MuaraAI/ai-api) · [laku](https://github.com/MuaraAI/laku) · [Skins](https://github.com/MuaraAI/Skins)
+
+<br/>
+
+## 🚢 Craftvel
+
+*Founder of [Craftvel](https://github.com/Craftvel) — anime platform: public API, bot DE, website & aplikasi. Live at [craftvel.com](https://craftvel.com).*
+
+<p align="center">
+  <a href="https://craftvel.com">
+    <img src="https://img.shields.io/badge/craftvel.com-Anime_Platform-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Craftvel">
+    <img src="https://img.shields.io/badge/Org-GitHub%2FCraftvel-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+## 🤝 Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Curzyori&theme=tokyonight" alt="Contribution Stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/All%20Time-3%2C778%20commits%20%C2%B7%20262%20PRs-58A6FF?style=for-the-badge" alt="All-time commits and PRs" />
+  <img src="https://img.shields.io/badge/2026-5%2C847%20contributions-2DD4BF?style=for-the-badge" alt="2026 contributions" />
+  <img src="https://img.shields.io/badge/MuaraAI-736%20commits%20%C2%B7%20213%20PRs-58A6FF?style=for-the-badge" alt="MuaraAI contributions" />
+</p>
+
+*2026: 5,847 total contributions — 1,504 commits, 218 PRs, 15 reviews, plus 4,077 in private repos. External PRs: [cogsend](https://github.com/cogsend) (3) · [UBSI-Study-Research-Club](https://github.com/UBSI-Study-Research-Club) (1). Craftvel & Velnime work runs in private repos.*
 
 <br/>
 
