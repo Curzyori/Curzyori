@@ -272,12 +272,12 @@ More from the org: [FluxCode](https://github.com/MuaraAI/FluxCode) · [web-ubsi]
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/All%20Time-3%2C778%20commits%20%C2%B7%20262%20PRs-58A6FF?style=for-the-badge" alt="All-time commits and PRs" />
-  <img src="https://img.shields.io/badge/2026-5%2C847%20contributions-2DD4BF?style=for-the-badge" alt="2026 contributions" />
+  <img src="https://img.shields.io/badge/All%20Time-3%2C715%20commits%20%C2%B7%20264%20PRs-58A6FF?style=for-the-badge" alt="All-time commits and PRs" />
+  <img src="https://img.shields.io/badge/2026-5%2C850%20contributions-2DD4BF?style=for-the-badge" alt="2026 contributions" />
   <img src="https://img.shields.io/badge/MuaraAI-736%20commits%20%C2%B7%20213%20PRs-58A6FF?style=for-the-badge" alt="MuaraAI contributions" />
 </p>
 
-*2026: 5,847 total contributions — 1,504 commits, 218 PRs, 15 reviews, plus 4,077 in private repos. External PRs: [cogsend](https://github.com/cogsend) (3) · [UBSI-Study-Research-Club](https://github.com/UBSI-Study-Research-Club) (1). Craftvel & Velnime work runs in private repos.*
+*Per 15 Nov 2026 (GitHub API): 2026 has 5,850 contributions: 1,506 commits, 218 PRs, 15 reviews, plus 4,078 in private repos. All time: 3,715 commits on default branches across 92 own repos and 13 MuaraAI repos, 264 PRs (257 merged). MuaraAI: 736 commits and 213 PRs (211 merged) from me, 7 contributors in total. External PRs: [ItsMeRevID/KiwEssentials-java](https://github.com/ItsMeRevID/KiwEssentials-java) (5, 3 merged) · [cogsend](https://github.com/cogsend) (3, 2 merged). Craftvel & Velnime work runs in private repos.*
 
 <br/>
 
